@@ -33,4 +33,4 @@ Krátká hra, kterou si zahrajete po telefonu. Dovoláte se na firemní linku, j
 
 **Zavolejte na 222 765 757 a vybírejte tlačítky 1 a 2.** Stačí běžný mobil, žádná aplikace ani registrace.
 
-Hra běží na mém serveru s Ubuntu a Asteriskem. Operátor Odorik na něj předává hovory přes SIP. Spravuji připojení k operátorovi, přehrávání hlášek, reakce na tlačítka a zabezpečení serveru. V repozitáři je scénář, konfigurace a postup kontroly hovorů.
+Děj a texty hry vytvořila AI, hra je jen ukázka. Hra běží na mém serveru s Ubuntu a Asteriskem. Operátor Odorik na něj předává hovory přes SIP. Spravuji připojení k operátorovi, přehrávání hlášek, reakce na tlačítka a zabezpečení serveru. V repozitáři je scénář, konfigurace a postup kontroly hovorů.
