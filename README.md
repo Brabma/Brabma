@@ -31,6 +31,6 @@ Na jednom počítači mi ve VirtualBoxu běží dva virtuální stroje: server s
 
 Krátká hra, kterou si zahrajete po telefonu. Dovoláte se na firemní linku, jejíž automat nechce být vypnutý, a volbami rozhodujete, jak to dopadne.
 
-**Zavolejte na 222 765 757 a vybírejte tlačítky 1 a 2.** Stačí běžný mobil, žádná aplikace ani registrace.
+**Zavolejte na 222 765 757 a vybírejte tlačítky 1 a 2.** Stačí běžný mobil, žádná aplikace ani registrace. Nejde o placenou linku, zaplatíte jen obyčejný hovor podle svého tarifu.
 
 Děj a texty vytvořila AI, jde jen o ukázku. Hra běží na mém serveru s Ubuntu a Asteriskem. Operátor Odorik na něj předává hovory přes SIP. Spravuji připojení k operátorovi, přehrávání hlášek, reakce na tlačítka a zabezpečení serveru. V repozitáři je scénář, konfigurace a postup kontroly hovorů.
