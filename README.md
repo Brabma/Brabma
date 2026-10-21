@@ -1,6 +1,6 @@
 # Moje IT projekty
 
-Na vlastních projektech si zkouším správu Linuxu, Windows a telefonie. Domácí server nepřetržitě sbírá zprávy ze světových médií a vzniká z nich web [mujlinux.cloud](https://mujlinux.cloud/). Ve virtuální síti s Windows Serverem spravuji uživatele, sdílené složky a skupinové zásady. Na Asterisku mi běží telefonní linka, na kterou se dá zavolat z běžného mobilu.
+Na vlastních projektech si zkouším správu Linuxu a Windows. Domácí server nepřetržitě sbírá zprávy ze světových médií a vzniká z nich web [mujlinux.cloud](https://mujlinux.cloud/). Ve virtuální síti s Windows Serverem spravuji uživatele, sdílené složky a skupinové zásady. Na Asterisku mi běží telefonní linka, na kterou se dá zavolat z běžného mobilu.
 
 ## [Linuxový server pro sběr zpráv](https://github.com/Brabma/linux-server)
 
