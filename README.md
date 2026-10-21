@@ -27,7 +27,7 @@ Na jednom počítači mi ve VirtualBoxu běží dva virtuální stroje: server s
 
 ## [Telefonní hra na Asterisku](https://github.com/Brabma/asterisk-telefonni-hra)
 
-Krátká hra, kterou si zahrajete po telefonu. Ozve se firemní ústředna a tlačítky 1 a 2 rozhodujete, jak příběh dopadne. Zabere přibližně minutu.
+Krátká hra, kterou si zahrajete po telefonu. Ozve se firemní ústředna a tlačítky 1 a 2 rozhodujete, jak příběh dopadne.
 
 **Zavolejte na 222 765 757 a vybírejte tlačítky 1 a 2.** Stačí běžný mobil, žádná aplikace ani registrace.
 
